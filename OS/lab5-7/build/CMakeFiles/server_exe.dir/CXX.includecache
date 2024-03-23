@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/definitions.hpp
+
+../include/functions.hpp
+map
+-
+string
+-
+zmq_addon.hpp
+-
+zmq.hpp
+-
+cerrno
+-
+sys/wait.h
+-
+definitions.hpp
+../include/definitions.hpp
+
+/home/alexander/labsos/lab5-7/src/server.cpp
+iostream
+-
+thread
+-
+chrono
+-
+semaphore
+-
+definitions.hpp
+/home/alexander/labsos/lab5-7/src/definitions.hpp
+functions.hpp
+/home/alexander/labsos/lab5-7/src/functions.hpp
+

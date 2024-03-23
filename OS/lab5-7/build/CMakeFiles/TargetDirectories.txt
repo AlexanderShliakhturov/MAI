@@ -1,0 +1,5 @@
+/home/alexander/labsos/lab5-7/build/CMakeFiles/edit_cache.dir
+/home/alexander/labsos/lab5-7/build/CMakeFiles/worker_exe.dir
+/home/alexander/labsos/lab5-7/build/CMakeFiles/rebuild_cache.dir
+/home/alexander/labsos/lab5-7/build/CMakeFiles/server_exe.dir
+/home/alexander/labsos/lab5-7/build/CMakeFiles/lab5-7_lib.dir
